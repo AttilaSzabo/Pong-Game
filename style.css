@@ -73,4 +73,20 @@ body {
     }
 }
 
+@media screen and (max-width: 957px) {
+
+    .canvas {
+      width: 600px;
+      height: 300px;
+    }
+  }
+  
+  @media screen and (max-width: 629px) {
+  
+    .canvas {
+      width: 280px;
+      height: 400px;
+    }
+  }
+
 
